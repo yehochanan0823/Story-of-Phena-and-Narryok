@@ -1,6 +1,6 @@
 # Story of Phena & Narryok
 
-## Chapter.5  *Ende* ##
+## Chapter.5  *~ End ~* ##
 
 东方，安絜共和国境内。
 
@@ -47,4 +47,4 @@ Narryok 的思绪一路逆着时光回溯，从此时此地又飞向了遥远的
 
 「自...然？...」
 
-Narryok 转过头。记忆中的「母亲」浮现。
+Narryok 转过头。Phena 
