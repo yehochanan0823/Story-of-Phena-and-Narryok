@@ -1,5 +1,5 @@
 # Age Comparison
-<p style="color:purple;">紫色</font>姓名的角色生卒年在原本設定中尚未設定，僅能推估。
+<p style="color:purple;">紫色</p>姓名的角色生卒年在原本設定中尚未設定，僅能推估。
 
 ## 拉赫亞學會時期
 
@@ -13,7 +13,7 @@
 - 16～82年（得年66）
 - 西元1878～1944
 
-<p style="color:purple;">愛麗絲．塔米登</font>
+<p style="color:purple;">愛麗絲．塔米登</p>
 
 - 約18～80年（得年62）
 - 約西元1880～1942
@@ -25,17 +25,17 @@
 - 109～
 - 西元1971～
 
-<p style="color:purple;">佐野米香</font>
+<p style="color:purple;">佐野米香</p>
 
 - 約109～
 - 約西元1971～
 
-<p style="color:purple;">Torita</font>
+<p style="color:purple;">Torita</p>
 
 - 約109～
 - 約西元1971～
 
-<p style="color:purple;">佐藤夏子</font>
+<p style="color:purple;">佐藤夏子</p>
 
 - 131～
 - 西元1994～
@@ -47,7 +47,7 @@
 - 173～
 - 西元2035～
 
-<p style="color:purple;">Kirameki</font>
+<p style="color:purple;">Kirameki</p>
 
 - 約175～
 - 約西元2037～
